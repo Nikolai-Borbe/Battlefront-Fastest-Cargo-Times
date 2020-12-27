@@ -7,7 +7,7 @@
 ### Imperial station (Rebel side) = 23 sec [Click]
 [![Rebel side = 22 sec](images/imperial_station.jpg)](https://youtu.be/6I9Uq4F6mNs)
 
-### Imperial station (Imperial side) = 23 secc [Click]
+### Imperial station (Imperial side) = 23 sec [Click]
 [![Imperial side = 22 sec](images/imperial_station.jpg)](https://www.youtube.com/watch?v=K8j9IAWka5o&feature=youtu.be)
 
 ### Rebel base = 24 sec [Click]

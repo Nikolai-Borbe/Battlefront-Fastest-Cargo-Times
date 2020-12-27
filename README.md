@@ -1,5 +1,5 @@
 # Fastest times to deliver the cargo on each map
-<p><small>Added 1 sec safety margin</small></p>
+
 * Imperial hangar = 16 sec
 * Imperial station = 22 sec on Rebel side | 22 sec on Imperial side
 * Rebel base = 23 sec
